@@ -1,5 +1,5 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("script library","BloodTheme")
+local window = kavoUi.CreateLib("Salad Trash Crack by Lazium","BloodTheme")
  
 ---Tabs
  
@@ -12,7 +12,7 @@ local Tab3Section = Tab3:NewSection("More script")
 local Tab4 = window:NewTab("Doors")
 local Tab4Section = Tab4:NewSection("Doors")
 local Tab5 = window:NewTab("Credits")
-local Tab5Section = Tab5:NewSection("Made by Salad")
+local Tab5Section = Tab5:NewSection("Made by Skid called Salad")
  
 ---Buttons
  
